@@ -1,0 +1,106 @@
+CategoryID,Concat, AddThis , Adobe Analytics , Adobe Target , Akamai , Algolia , Amazon AWS , AppDynamics , Bing Ads , CloudFlare, F5 , Facebook , Google Ads , Google Analytics , Java , JustUno , LinkedIn , LogRocket , Microsoft Clarity , Mixpanel , Okta , OneTrust , Optimizely , Playframework , Salesforce, Salesforce LiveAgent , ShareThis , Snapchat , Unknown 
+3,linkedin use determin oribi analyt carri specif domain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3,snapchat cooki associ snapchat track individu session websit allow websit compil statist data multipl visit data also use creat lead market purpos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1,unknown use cookiecons local storag item mixpanel use __mp_opt_in_out_ local storag item rememb decis use use option cooki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,justuno cooki use cach justuno version use websit account cooki expir 30min,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,onetrust cooki set cooki complianc solut onetrust store inform categori cooki site use whether visitor given withdrawn consent use categori enabl site owner prevent cooki categori set user browser consent given cooki normal lifespan one year return visitor site prefer rememb contain inform identifi site visitor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1,playframework cooki play framework use store session data belong custombuilt intern web app,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2,appdynam browser perform manag tool use cooki collect web perform data ip address,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,googl analyt use market purpos specif use track custom variabl googl analyt use performancemarket purpos,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,cloudflar __cfruid cooki strictli necessari support cloudflar rate limit product part rate limit solut cooki requir manag incom traffic better visibl origin particular request,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,microsoft persist clariti user id prefer uniqu site attribut user id,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1,adob analyt s_per cooki part adob analyt use measur perform site usag across visit cooki contain person inform first parti cooki,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,unknown cooki gener part signin process use defend cross site request forgeri csrf,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1,adob analyt determin whether user accept cooki consent box,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,java cooki use session manag javabas web applic gener servlet contain like tomcat jetti cooki help maintain user session http,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,justuno unknown deprec,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,adob target cooki set adob sitecatalyst analyt softwar use measur perform page content use ab split test,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,salesforc session id use authent lightn platform soapapi restapi data connect current user,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1,f5 secur polici cooki,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,okta okta recogn devic base devic token dt cooki sent authent request dt cooki present initi login okta respond new dt cooki need store case browser,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1,unknown session cooki requir function,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,adob target temporari cooki check cooki readwrit capabl enabl browser,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,amazon aw primari function provid load balanc function mean act like traffic control manag number user visit websit one time prevent system overload much simultan activ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,amazon aw primari function provid load balanc function mean act like traffic control manag number user visit websit one time prevent system overload much simultan activ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,mixpanel use identifi individu user,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1,amazon aw primari function provid load balanc function mean act like traffic control manag number user visit websit one time prevent system overload much simultan activ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt one four main cooki set googl analyt servic enabl websit owner track visitor behaviour measur site perform cooki last 2 year default distinguish user session use calcul new return visitor statist cooki updat everi time data sent googl analyt lifespan cooki customis websit owner,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,amazon aw primari function provid load balanc function mean act like traffic control manag number user visit websit one time prevent system overload much simultan activ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt cooki set googl analyt accord document use throttl request rate servic limit collect data high traffic site expir 10 minut,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,microsoft clariti connect multipl page view user singl clariti session record,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2,googl analyt regist uniqu id use gener statist data visitor use websit cooki expir 1 day,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt gener statist data visitor use servic,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,microsoft clariti connect multipl page view user singl clariti session record,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1,adob analyt track time previou page took load,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,f5 bigip asm system use asm cooki name enforc secur polici bigip asm system valid cooki return client ensur cooki modifi,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,amazon aw primari function provid load balanc function mean act like traffic control manag number user visit websit one time prevent system overload much simultan activ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt store use keyword search engin,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,java cooki use session manag javabas web applic gener servlet contain like tomcat jetti cooki help maintain user session http,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,bing ad univers event track uet use way track happen someon click ad find common user question tip best practic get start uet,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,addthi cooki associ addthi social share widget commonli embed websit enabl visitor share content rang network share platform store updat page share count,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt gener statist data visitor use servic,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,amazon aw primari function provid load balanc function mean act like traffic control manag number user visit websit one time prevent system overload much simultan activ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,adob experi cloud cooki use identifi uniqu visitor,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,salesforc liveag captur visitor arriv websit either search result affili link inform wont avail agent without cooki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1,adob analyt cooki set adob analyt store inform percentag page display end user,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,salesforc liveag count user distinct brows session websit close previou session agent wont see inform without cooki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1,f5 secur polici cooki,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,salesforc liveag link previou chat transcript singl visitor chat without cooki new livechatvisitor record new livechattranscript creat time visitor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+3,facebook deliv seri advertis product real time bid third parti advertis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt cooki set googl analyt accord document use throttl request rate servic limit collect data high traffic site expir 10 minut,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt provid technic monitor,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,googl analyt _utmv cooki part googl analyt contain specif custom data ip address devic use record custom variabl segment third parti cooki,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt provid technic monitor,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,f5 bigip asm system use asm cooki name enforc secur polici bigip asm system valid cooki return client ensur cooki modifi,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,cloudflar __cf_bm cooki cooki necessari support cloudflar bot manag current privat beta part bot manag servic cooki help manag incom traffic match criteria associ bot,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,salesforc liveag captur uniqu pseudonym id user request chat activ session agent wont know user brows offer specif advic without cooki,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1,adob analyt cooki fallback visitor identifi s_vi cooki reason block contain randomli gener uniqu id,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,unknown session cooki requir function,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,optim store id experi session ab test,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2,googl analyt read filter request bot,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,optim cooki set optim websit optimis plaftform hold audienc segment inform visitor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1,adob analyt unknown,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,amazon aw primari function provid load balanc function mean act like traffic control manag number user visit websit one time prevent system overload much simultan activ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,logrocket cooki use detect error websit inform sent websit support staff order optim visitor experi websit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1,adob analyt intern cooki written test browser cooki support,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,adob analyt cooki associ adob site catalyst determin whether cooki enabl web browser,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,adob analyt adob site catalyst cooki store inform previou link click within site,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,adob experi platform cooki use identifi uniqu visitor,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,adob analyt cooki set adob analyt store inform percentag page display end user,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,adob analyt store temporari analyt inform handl adob analyt core librari session cooki delet close browser,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,akamai cooki use akamai botman manag help differenti web request gener human web request gener bot autom process,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,sharethi cooki usual associ sharethi social share widget place site enabl share content across variou social network count click share page,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1,f5 bigip asm system use asm cooki name enforc secur polici bigip asm system valid cooki return client ensur cooki modifi,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,optim store id experi session ab test,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1,akamai cooki use optim perform improv user experi akamai websit,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,addthi cooki associ addthi social share widget commonli embed websit enabl visitor share content rang network share platform,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,justuno cooki use determin actual root domain custom websit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,f5 secur polici cooki,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,justuno cooki use safeguard multipl tabswindow overwrit other profil,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt one four main cooki set googl analyt servic enabl websit owner track visitor behaviour measur site perform use site set enabl interoper older version googl analyt code known urchin older version use combin __utmb cooki identifi new sessionsvisit return visitor,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,adob analyt cooki set custom domain amcv cooki set client purpos cooki allow persist id track 1st parti state use refer id amcv cooki expir check amcv cooki detail,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt one four main cooki set googl analyt servic enabl websit owner track visitor behaviour measur site perform cooki determin new session visit expir 30 minut cooki updat everi time data sent googl analyt activ user within 30 minut life span count singl visit even user leav return site return 30 minut count new visit return visitor,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,amazon aw primari function provid load balanc function mean act like traffic control manag number user visit websit one time prevent system overload much simultan activ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt cooki set googl analyt accord document use throttl request rate servic limit collect data high traffic site expir 10 minut,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,adob analyt adob site catalyst cooki store date visit visitor new return,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,adob experi cloud amcv cooki name follow syntax amcvs_adobeorg name element placehold part experi cloud organ id id pass dc thevisitorgetinst function id servic code,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,snapchat cooki associ snapchat set uniqu id visitor allow third parti advertis target visitor relev advertis pair servic provid third parti advertis hub facilit realtim bid advertis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3,justuno cooki contain uniqu code identifi devic profil track purpos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,adob analyt provid page name valu url use adob analyt,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,bing ad univers event track uet use way track happen someon click ad find common user question tip best practic get start uet,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,amazon aw primari function provid load balanc function mean act like traffic control manag number user visit websit one time prevent system overload much simultan activ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,akamai cooki use akamai botman manag help differenti web request gener human web request gener bot autom process,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,adob analyt cooki use identifi uniqu visitor,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,amazon aw primari function provid load balanc function mean act like traffic control manag number user visit websit one time prevent system overload much simultan activ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,amazon aw primari function provid load balanc function mean act like traffic control manag number user visit websit one time prevent system overload much simultan activ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,optim store id experi session ab test,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1,adob experi cloud amcv cooki name follow syntax amcvs_adobeorg name element placehold part experi cloud organ id id pass dc thevisitorgetinst function id servic code,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,googl ad _gcl cooki store campaign inform order provid googl ad reliabl way measur interact custom busi analyt write campaign inform _gac _gcl cooki user open page site via url employ googl ad autotag,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,algolia cooki essenti identifi user search analyt person purpos within algolia platform,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,amazon aw primari function provid load balanc function mean act like traffic control manag number user visit websit one time prevent system overload much simultan activ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt gener statist data visitor use servic,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt gtagj javascript librari use firstparti cooki distinguish uniqu user well uniqu session singl user librari requir set cooki transmit data googl analyt,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,googl analyt provid technic monitor,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,optim store id experi session ab test,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2,justuno cooki use cach justuno version use websit account cooki expir 30min,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,okta use applic wherea auto launch enabl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
